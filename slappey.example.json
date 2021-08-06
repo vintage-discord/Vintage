@@ -1,0 +1,7 @@
+{
+	"name": "BotName",
+	"language": "typescript",
+	"manager": "npm or yarn",
+	"token": "bot-token",
+	"prefix": "prefix"
+}
